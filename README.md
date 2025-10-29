@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Heitor Sette!
 
 🎓 Estudante de **Ciências da Computação** na [Universidade de Fortaleza (UNIFOR)](https://www.unifor.br)  
-💻 Apaixonado por **desenvolvimento de software**, **algoritmos** e **desenvolvimento web/mobile**.
+💻 Apaixonado por **desenvolvimento de software**, **desenvolvimento mobile** e **desenvolvimento web**.
 
 ---
 
