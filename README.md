@@ -1,5 +1,5 @@
 <!-- Título -->
-<h1 align="left">👩‍💻 SEU_NOME</h1>
+<h1 align="left">👩‍💻 Heitor Sette</h1>
 
 <!-- Badge de cargo -->
 <p>
@@ -8,7 +8,7 @@
 
 <!-- Bio curta -->
 <p align="left">
-Me chamo <b>SEU_NOME_COMPLETO</b>, sou de <b>SUA_CIDADE/ESTADO</b> e atualmente curso <b>SEU_CURSO</b> em <b>SUA_UNI</b>.
+Me chamo <b>Heitor Sette</b>, sou de <b>Fortaleza</b> e atualmente curso <b>Ciências da computação</b> na <b>Unifor</b>.
 Apaixonada por tecnologia, compartilho projetos e aprendizados focados em <b>SUAS_STACKS/INTERESSES</b>.
 </p>
 
@@ -38,13 +38,7 @@ Apaixonada por tecnologia, compartilho projetos e aprendizados focados em <b>SUA
   <img alt="HTML" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="CSS" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img alt="JavaScript" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="TypeScript" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img alt="Node" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="React" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="Next.js" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  <img alt="Sass" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img alt="PHP" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img alt="Tailwind" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img alt="Python" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </p>
 
