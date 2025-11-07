@@ -29,12 +29,8 @@ Apaixonado por tecnologia, compartilho projetos e aprendizados focados em <b>web
   <img alt="HTML" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="CSS" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img alt="JavaScript" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="TypeScript" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img alt="Node" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="React" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="Flutter" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img alt="Python" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="Firebase" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   <img alt="Git" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </p>
 
@@ -46,23 +42,18 @@ Apaixonado por tecnologia, compartilho projetos e aprendizados focados em <b>web
 
   <img
     height="160"
-    src="https://github-readme-stats.vercel.app/api?username=heitornsette&show_icons=true&rank_icon=github&custom_title=Estatísticas%20do%20GitHub&locale=pt-br&include_all_commits=true&theme=dark"
+    src="https://github-readme-stats.vercel.app/api?username=Hns7&show_icons=true&rank_icon=github&custom_title=Estatísticas%20do%20GitHub&locale=pt-br&include_all_commits=true&theme=dark"
   />
 
   <img
     height="160"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitornsette&layout=compact&langs_count=8&locale=pt-br&theme=dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hns7&layout=compact&langs_count=8&locale=pt-br&theme=dark"
   />
 
 </div>
 
 ---
 
-### ⏱️ Tempo de código (WakaTime)
-
-<img
-  src="https://github-readme-stats.vercel.app/api/wakatime?username=Hns7&layout=compact&langs_count=8&hide_border=true&custom_title=WakaTime%20-%20Últimos%207%20dias&theme=dark"
-/>
 
 ### 📈 Meu resumo semanal (WakaTime)
 <!--START_SECTION:waka-->
