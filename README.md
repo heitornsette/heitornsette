@@ -1,70 +1,80 @@
-<h1 align="left">👩‍💻 Heitor Sette</h1>
+<h1 align="left">👋 Olá, eu sou o Heitor Sette</h1>
 
 <p>
   <img src="https://img.shields.io/badge/Desenvolvedor%20FullStack-6C63FF?style=for-the-badge&labelColor=2A2A2A" />
 </p>
 
 <p align="left">
-Me chamo <b>Heitor Sette</b>, sou de <b>Fortaleza</b> e atualmente curso <b>Ciências da Computação</b> na <b>Unifor</b>.
-Apaixonado por tecnologia, compartilho projetos e aprendizados focados em <b>web, mobile e backend</b>.
-</p>
-
-<p align="left">
-  <a href="https://github.com/heitornsette?tab=repositories" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=heitornsette&label=VIEWS&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/heitornsette?tab=stars" target="_blank">
-    <img src="https://img.shields.io/github/stars/heitornsette?affiliations=OWNER&label=ESTRELAS&style=for-the-badge&logo=github&labelColor=2A2A2A">
-  </a>
-  <a href="https://github.com/heitornsette?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/heitornsette?label=SEGUIDORES&style=for-the-badge&logo=github&labelColor=2A2A2A">
-  </a>
+Sou um desenvolvedor apaixonado por tecnologia, estudando <b>Ciências da Computação</b> na <b>Universidade de Fortaleza (UNIFOR)</b>.  
+Gosto de criar soluções completas — do <b>frontend</b> ao <b>backend</b> — sempre buscando aprender e evoluir.
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### ⚙️ Tecnologias & Ferramentas
 
 <p align="left">
   <img alt="HTML" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="CSS" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img alt="JavaScript" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="Node" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="NodeJS" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="Java" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img alt="Python" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="MySQL" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img alt="Git" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </p>
 
 ---
 
-### 📊 Estatísticas
+### 📊 Estatísticas do GitHub
 
 <div align="left">
 
   <img
     height="160"
-    src="https://github-readme-stats.vercel.app/api?username=Hns7&show_icons=true&rank_icon=github&custom_title=Estatísticas%20do%20GitHub&locale=pt-br&include_all_commits=true&theme=dark"
+    src="https://github-readme-stats.vercel.app/api?username=heitornsette&show_icons=true&rank_icon=github&custom_title=Minhas%20Estatísticas&theme=dark"
   />
 
   <img
     height="160"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hns7&layout=compact&langs_count=8&locale=pt-br&theme=dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitornsette&layout=compact&langs_count=8&theme=dark"
   />
 
 </div>
 
 ---
 
+### 🚀 Projetos em Destaque
 
-### 📈 Meu resumo semanal (WakaTime)
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+- [📚 **Biblioteca App**](https://github.com/heitornsette/biblioteca-app) — Sistema Java Swing + MySQL para gerenciamento de livros e empréstimos.  
+- [🍔 **FoodExpress**](https://github.com/heitornsette/foodexpress) — Plataforma web de delivery com autenticação JWT e frontend moderno.  
+- [💬 **ChatBot AI**](https://github.com/heitornsette/chatbot-ai) — Assistente virtual usando Node.js e integração com APIs de IA.
 
 ---
 
-### 🚀 Projetos em destaque
-- [PROJETO_1](LINK) — 1 linha dizendo o que faz e o stack principal.
-- [PROJETO_2](LINK) — 1 linha dizendo o que faz e o stack principal.
-- [PROJETO_3](LINK) — 1 linha dizendo o que faz e o stack principal.
+### 📈 Produtividade Semanal (WakaTime)
 
-> “Sempre aprendendo, sempre construindo.”  
-> **heitornsette@gmail.com** | [LinkedIn](https://www.linkedin.com/in/heitorsette/) | [Portfólio](https://SEU_SITE.com)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+> Configure seu [WakaTime](https://wakatime.com) para que esta seção exiba automaticamente suas horas de código.
+
+---
+
+### 📫 Contato
+
+📧 **heitorsette.dev@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/heitorsette)  
+💻 [Portfólio](https://heitorsette.dev) *(se quiser posso te ajudar a montar um)*  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=heitornsette&label=VISITAS&style=for-the-badge&color=6C63FF" />
+  <img src="https://img.shields.io/github/followers/heitornsette?label=SEGUIDORES&style=for-the-badge&logo=github&labelColor=2A2A2A">
+</p>
+
+---
+
+> “Sempre aprendendo, sempre construindo.” 💡  
+> Feito com ❤️ por **Heitor Sette**
