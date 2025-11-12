@@ -34,7 +34,7 @@ Gosto de criar soluções completas — do <b>frontend</b> ao <b>backend</b> —
 **Linguagens mais usadas:**
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitornsette&layout=compact&langs_count=8&theme=dark" alt="Top Languages" style="max-width:480px; width:100%; height:auto; border-radius:6px; box-shadow: 0 6px 18px rgba(0,0,0,0.12);" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitornsette&layout=compact&langs_count=6&theme=dark" alt="Top Languages" width="380px" style="border-radius:8px; box-shadow:0 4px 10px rgba(0,0,0,0.15);" />
 </p>
 
 ---
